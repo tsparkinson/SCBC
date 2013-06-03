@@ -12,3 +12,7 @@ def square_root(x):
 # doesn't work on negative numbers
 #
 # (or strings)
+
+
+def square_root(x):
+    return np.sqrt(x)
