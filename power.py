@@ -5,9 +5,14 @@ def power(x):
     """
     Returns the power of x
 
+    Parameter
+    ---------
+    x : sequence
+
     Returns
     -------
     x ** 2
+
     """
     return x ** 2
 
