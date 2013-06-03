@@ -14,5 +14,3 @@ def square_root(x):
 # (or strings)
 
 
-def square_root(x):
-    return np.sqrt(x)
