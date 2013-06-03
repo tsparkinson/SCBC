@@ -2,6 +2,9 @@ import numpy as np
 
 
 def power(x):
+    """
+    Returns the power of x
+    """
     return x ** 2
 
 
